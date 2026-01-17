@@ -1,0 +1,24 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+# Changes to be committed:
+#	modified:   .DS_Store
+#	new file:   .github/.DS_Store
+#	new file:   .github/workflows/ci.yml
+#	new file:   .github/workflows/deploy.yml
+#	modified:   README.md
+#	new file:   images/cloudy.jpg
+#	new file:   images/fog.jpg
+#	new file:   images/rainy.jpg
+#	new file:   images/snow.jpg
+#	new file:   images/sunny.jpg
+#	deleted:    package.json
+#	modified:   src/.DS_Store
+#	modified:   src/index.html
+#	new file:   src/scripts/.DS_Store
+#	deleted:    src/scripts/app.js
+#	new file:   src/scripts/script.js
+#	modified:   src/styles/style.css
+#
